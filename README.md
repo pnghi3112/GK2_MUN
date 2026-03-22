@@ -29,7 +29,7 @@
 ## Demo 
 
 The live project can be accessed here:  
-https://pnghi3112.github.io/GK2_HOUSE/ 
+https://pnghi3112.github.io/GK2_MUN/
 
 ---
 
